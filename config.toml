@@ -4,10 +4,6 @@ title = "Delicious Recipes"
 theme = "Baratie-v1"
 paginate = "8"
 
-[permalink]
-  blog = ":slug"
-  popular ":slug"
-
 [params]
     description = "Our Popular Recipes, Easy and Testy"
     key = "Recipes, Popular Recipes, delicious Recipes, testy recipes"
